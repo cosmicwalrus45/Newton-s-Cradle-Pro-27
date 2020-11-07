@@ -1,3 +1,2 @@
 #Newton's Cradle
-Newton's Cradle
-Kabir R. 
+by kabir raghuvanshi
